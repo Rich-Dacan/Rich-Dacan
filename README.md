@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning JavaScript and Phyton! 
 - 💞️ I'm looking to collaborate in building the future of humanity!
 - 📫 How to reach me: rich_dacan@protonmail.com / @rich_dacan on Instagram!
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
