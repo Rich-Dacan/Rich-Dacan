@@ -54,7 +54,7 @@
 </a>
 
  
- Thanks for visiting! 👊 🤘
+Thanks for the visit, until soon 👊 🤘
  
 
 
