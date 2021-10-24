@@ -9,7 +9,7 @@
  
  🚀 I'm looking to collaborate in building the future of humanity!
  
- 📫 How to reach me: rich_dacan@protonmail.com / @rich_dacan on Instagram!
+ 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
  
  
  <br>
