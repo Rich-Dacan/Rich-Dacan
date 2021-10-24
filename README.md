@@ -5,7 +5,7 @@
  
  🌱 I’m currently learning JavaScript and Phyton! 
  
- 🐧 Linux user;
+ 🐧 Linux user!
  
  🚀 I'm looking to collaborate in building the future of humanity!
  
