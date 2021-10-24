@@ -22,9 +22,9 @@
 ![Phyton](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=black)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1572B6?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <br>
 
@@ -67,7 +67,7 @@
 
 
  <br><br>
-  Thanks for the visit, until soon! 👊 🤘
+  Thanks for the visit, until soon! 👊 🤘      ahhh, and buy <img text-align="center" src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/>
  
  ##
  
