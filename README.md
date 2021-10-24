@@ -1,4 +1,4 @@
- <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ricahrd Cândido! </h1>
+ <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Richard Cândido! </h1>
  
 👨‍💻 I'm interested in programming!
  
@@ -30,8 +30,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
+<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
+<img width="530em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
 </p>
 
 <br><br>
@@ -53,6 +53,8 @@
  <img align="center" src="https://img.shields.io/badge/-rich_dacan-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
+ 
+ Thanks for visiting! 👊 🤘
  
 
 
