@@ -10,7 +10,7 @@
  🐧 Linux user!   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/>
                   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/>
  
- 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-05122A?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
+ 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
  
  
  <br>
@@ -18,10 +18,10 @@
  ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=black)&nbsp;
-![Phyton](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Phyton](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1572B6?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
