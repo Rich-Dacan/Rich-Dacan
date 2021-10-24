@@ -50,11 +50,11 @@
  
  
 <a href="https://instagram.com/rich_dacan" target="_blank"  rel="external" >
- <img align="center" src="https://img.shields.io/badge/-rich_dacan-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
  
 <a href="https://twitter.com/Richacan_" target="_blank"  rel="external" >
-  <img align="center" src="https://img.shields.io/badge/-Richacan_-05122A?style=flat&logo=twitter"  alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-05122A?style=flat&logo=twitter"  alt="twitter"/>  
 </a>
 
 
