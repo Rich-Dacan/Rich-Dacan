@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Rich-Dacan!
+ 👋 Hi, I’m <mark>@Rich-Dacan!</mark>
  
  👀 I'm interested in programming!
  
