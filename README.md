@@ -33,7 +33,7 @@
 <p align="left">
 <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
 <!--<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=dracula" alt="Rich-Dacan's stats"/>-->
-<img width="530em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
+<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
 </p>
 
 <br><br>
