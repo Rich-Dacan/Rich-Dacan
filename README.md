@@ -32,11 +32,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rich-Dacan&color=yellow" alt="Profile views" /> </p>
 <p align="left">
-<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
+<img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
  
 <!--<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=dracula" alt="Rich-Dacan's stats"/>-->
  
-<img width="520em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
+<img margin-top="auto" width="520em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
 </p>
 
 <br><br>
