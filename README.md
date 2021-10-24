@@ -5,11 +5,11 @@
  
  🌱 I’m currently learning JavaScript and Phyton! 
  
- 🐧 Linux user!
+ 🐧 Linux user! <img src="https://img.shields.io/badge/Arch_Linux-05122A?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/>
  
- 🚀 I'm looking to collaborate in building the future of humanity!
+ 🚀 I'm looking to collaborate in building the future of humanity! 
  
- 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
+ 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-05122A?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
  
  
  <br>
@@ -45,7 +45,7 @@
 <p align="left" style="background:yellow">
  
 <a href="https://linkedin.com/in/richard-cândido-a0b397112" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/richard-cândido-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/Richard Cândido-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  
  
