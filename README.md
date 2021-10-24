@@ -71,6 +71,9 @@
 
  Thanks for the visit, until soon! 👊 🤘
  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
 
 
  
