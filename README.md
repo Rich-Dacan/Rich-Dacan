@@ -1,13 +1,14 @@
- <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Richard Cândido! </h1>
+ <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">   Hi dear, I'm Richard Cândido! </h1>
   <br>
  
-👨‍💻 I'm interested in programming!
+ 👨‍💻 I'm interested in programming!
+ 
+ 🚀 I'm looking to collaborate in building the future of humanity! 
  
  🌱 I’m currently learning JavaScript and Phyton! 
  
- 🐧 Linux user! <img src="https://img.shields.io/badge/Arch_Linux-05122A?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/>
- 
- 🚀 I'm looking to collaborate in building the future of humanity! 
+ 🐧 Linux user!   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+                  <img src="https://img.shields.io/badge/Arch_Linux-05122A?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/>
  
  📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-05122A?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
  
@@ -47,7 +48,11 @@
 <p align="left" style="background:yellow">
  
 <a href="https://linkedin.com/in/richard-cândido-a0b397112" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Richard Cândido-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/Richard Cândido-05122A?style=flat&logo=linkedin&logoColor=rgb(10 102 193)" alt="linkedin"/>
+</a>
+ 
+ <a href="rich_dacan@protonmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/ProtonMail-05122A?style=flat&logo=protonmail" alt="protonmail"/>
 </a>
  
  
