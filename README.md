@@ -1,4 +1,5 @@
  <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Richard Cândido! </h1>
+  <br>
  
 👨‍💻 I'm interested in programming!
  
@@ -10,7 +11,6 @@
  
  📫 How to reach me: rich_dacan@protonmail.com / @rich_dacan on Instagram!
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rich-Dacan&color=yellow" alt="Profile views" /> </p>
  
  <br>
  
@@ -29,6 +29,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rich-Dacan&color=yellow" alt="Profile views" /> </p>
 <p align="left">
 <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
 <img width="530em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
@@ -38,6 +39,7 @@
 
 
 ## 😎   Social Links
+ <br>
 
 <p align="left" style="background:yellow">
  
@@ -52,9 +54,11 @@
 <a href="https://instagram.com/rich_dacan" target="_blank"  rel="external" >
  <img align="center" src="https://img.shields.io/badge/-rich_dacan-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
+ <br><br>
  
-Thanks for the visit, until soon 👊 🤘
+ ##
+
+ Thanks for the visit, until soon! 👊 🤘
  
 
 
