@@ -41,15 +41,15 @@
 
 <p align="left" style="background:yellow">
  
-<a href="https://twitter.com/Richacan_" >
-  <img align="center" src="https://img.shields.io/badge/-Richacan_-05122A?style=flat&logo=twitter" target="_blank" alt="twitter"/>  
+<a href="https://twitter.com/Richacan_" target="_blank"  rel="external" >
+  <img align="center" src="https://img.shields.io/badge/-Richacan_-05122A?style=flat&logo=twitter"  alt="twitter"/>  
  
 </a>
 <!--<a href="https://linkedin.com/in/richard-cândido-a0b397112" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-richard-cândido-a0b397112?style=flat&logo=linkedin" alt="linkedin"/>
 </a>-->
  
-<a href="https://instagram.com/rich_dacan" target="_blank">
+<a href="https://instagram.com/rich_dacan" target="_blank"  rel="external" >
  <img align="center" src="https://img.shields.io/badge/-rich_dacan-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
