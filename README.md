@@ -39,7 +39,7 @@
  
 <!--<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=dracula" alt="Rich-Dacan's stats"/>-->
  
-<img margin-top="auto" width="520em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>
+<!--<img margin-top="auto" width="520em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>-->
  
 <img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
 </p>
