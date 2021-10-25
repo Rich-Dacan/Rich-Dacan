@@ -54,7 +54,7 @@
 
 <p align="left" style="background:yellow">
  
-<a href="https://linkedin.com/in/richard-cândido-a0b397112" target="_blank">
+<a href="https://linkedin.com/in/richard-cândido-a0b397112" >
   <img align="center" src="https://img.shields.io/badge/Richard Cândido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
  
