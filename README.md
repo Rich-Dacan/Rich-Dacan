@@ -56,7 +56,7 @@
 <br><br>
 
 
-## 😎   Social Links
+## 😎   Social Media
  <br>
 
 <p align="left" style="background:yellow">
