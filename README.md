@@ -22,12 +22,12 @@
  <br>
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=float&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=black)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![Phyton](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1572B6?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=F7DF1E)&nbsp;
 
 
