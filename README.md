@@ -78,14 +78,13 @@
   <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-1DA1F2?style=flat&logo=twitter&logoColor=white"  alt="twitter"/>  
 </a>
  
- ##
- 
  <br>
-  <h2>Thanks for the visit, until soon! 👊 🤘 ahhh, and buy BTC 🚀<img text-align="center" src="https://img.shields.io/badge/Bitcoin-100000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/> </h2>
  
-
+![Snake animation](https://github.com/Rich-Dacan/Rich-Dacan/blob/output/github-contribution-grid-snake.svg)
+ <br>
  
-  ![Snake animation](https://github.com/Rich-Dacan/Rich-Dacan/blob/output/github-contribution-grid-snake.svg)
+ 
+<h2>Thanks for the visit, until soon! 👊 🤘 ahhh, and buy BTC ! 🚀<img text-align="center" src="https://img.shields.io/badge/Bitcoin-100000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></h2>
  
  
  
