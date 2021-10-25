@@ -77,12 +77,13 @@
 <a href="https://twitter.com/Richacan_" target="_blank"  rel="external" >
   <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-1DA1F2?style=flat&logo=twitter&logoColor=white"  alt="twitter"/>  
 </a>
-
-
- <br><br>
-  <h2>Thanks for the visit, until soon! 👊 🤘 ahhh, and buy BTC 🚀<img text-align="center" src="https://img.shields.io/badge/Bitcoin-100000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/> </h2>
  
  ##
+ 
+ <br>
+  <h2>Thanks for the visit, until soon! 👊 🤘 ahhh, and buy BTC 🚀<img text-align="center" src="https://img.shields.io/badge/Bitcoin-100000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/> </h2>
+ 
+
  
   ![Snake animation](https://github.com/Rich-Dacan/Rich-Dacan/blob/output/github-contribution-grid-snake.svg)
  
