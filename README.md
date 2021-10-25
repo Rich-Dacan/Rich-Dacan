@@ -12,7 +12,7 @@
                   <img src="https://img.shields.io/badge/Tails%20-56347C?&style=flat&logo=tails&logoColor=white" alt="tails"/>
                   
  
- 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
+ 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-56347C?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
  
  
  <br>
@@ -28,7 +28,7 @@
 ![Phyton](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1572B6?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=black)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=F7DF1E)&nbsp;
 
 
 
