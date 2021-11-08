@@ -7,12 +7,12 @@
  
  🌱 I’m currently learning JavaScript and Phyton! 
  
- 🐧 Linux user!   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-                  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/>
-                  <img src="https://img.shields.io/badge/Tails%20-56347C?&style=flat&logo=tails&logoColor=white" alt="tails"/>
+ 🐧 Linux user!   <img src="https://img.shields.io/badge/Ubuntu-100000?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+                  <img src="https://img.shields.io/badge/Arch_Linux-100000?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/>
+                  <img src="https://img.shields.io/badge/Tails%20-100000?&style=flat&logo=tails&logoColor=white" alt="tails"/>
                   
  
- 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-56347C?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
+ 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
  
  
  <br>
