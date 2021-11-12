@@ -12,7 +12,7 @@
                   <img src="https://img.shields.io/badge/Tails%20-100000?&style=flat&logo=tails&logoColor=white" alt="tails"/>
                   
  
- 📧 How to reach me: rich_dacan@protonmail.com <a href="mailto:rich_dacan@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
+ 📧 How to reach me:<a href="mailto:rich_dacan@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
  
  
  <br>
@@ -65,16 +65,11 @@
   <img align="center" src="https://img.shields.io/badge/Richard Cândido-100000?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
  
- <a href="rich_dacan@protonmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
-</a>
- 
- 
 <a href="https://instagram.com/rich_dacan" target="_blank"  rel="external" >
  <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-100000?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
  
-<a href="https://twitter.com/Richacan_" target="_blank"  rel="external" >
+<a href="https://twitter.com/RichardAndrade2" target="_blank"  rel="external" >
   <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-100000?style=flat&logo=twitter&logoColor=white"  alt="twitter"/>  
 </a>
  
