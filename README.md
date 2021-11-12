@@ -12,7 +12,7 @@
                   <img src="https://img.shields.io/badge/Tails%20-100000?&style=flat&logo=tails&logoColor=white" alt="tails"/>
                   
  
- 📧 How to reach me: rich_dacan@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
+ 📧 How to reach me: rich_dacan@protonmail.com <a href="rich_dacan@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
  
  
  <br>
