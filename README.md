@@ -62,20 +62,20 @@
 <p align="left" style="background:yellow">
  
 <a href="https://linkedin.com/in/richard-cândido-a0b397112" >
-  <img align="center" src="https://img.shields.io/badge/Richard Cândido-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/Richard Cândido-100000?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
  
  <a href="rich_dacan@protonmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
+  <img align="center" src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/>
 </a>
  
  
 <a href="https://instagram.com/rich_dacan" target="_blank"  rel="external" >
- <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-100000?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
  
 <a href="https://twitter.com/Richacan_" target="_blank"  rel="external" >
-  <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-1DA1F2?style=flat&logo=twitter&logoColor=white"  alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-100000?style=flat&logo=twitter&logoColor=white"  alt="twitter"/>  
 </a>
  
  <br>
