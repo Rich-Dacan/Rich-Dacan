@@ -1,4 +1,4 @@
- <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">   Hi dear, I'm Richard Cândido! </h1>
+ <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">   Hi, I'm Richard Cândido! </h1>
   <br>
  
  👨‍💻 I'm interested in programming!
