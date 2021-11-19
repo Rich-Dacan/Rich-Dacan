@@ -7,9 +7,9 @@
  
  🌱 I’m currently learning JavaScript and Phyton! 
  
- 🐧 Linux user!   <img src="https://img.shields.io/badge/Ubuntu-100000?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-                  <img src="https://img.shields.io/badge/Arch_Linux-100000?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/>
-                  <img src="https://img.shields.io/badge/Tails%20-100000?&style=flat&logo=tails&logoColor=white" alt="tails"/>
+ 🐧 Linux user!   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-100000?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
+                  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-100000?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/></a>
+                  <a href="https://tails.boum.org/index.pt.html"><img src="https://img.shields.io/badge/Tails%20-100000?&style=flat&logo=tails&logoColor=white" alt="tails"/></a>
                   
  
  📧 How to reach me:<a href="mailto:rich_dacan@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
