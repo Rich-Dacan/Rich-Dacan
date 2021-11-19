@@ -21,7 +21,7 @@
  
  <br>
  
-![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=float&logo=javascript&logoColor=F7DF1E)&nbsp;
+<a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=float&logo=javascript&logoColor=F7DF1E)&nbsp;</a>
 ![Git](https://img.shields.io/badge/-Git-100000?style=flat&logo=git&logoColor=F7DF1E)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-100000?style=flat&logo=HTML5&logoColor=F7DF1E)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-100000?style=flat&logo=node.js&logoColor=F7DF1E)&nbsp;
