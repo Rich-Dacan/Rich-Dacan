@@ -12,7 +12,7 @@
                   <a href="https://tails.boum.org/index.pt.html"><img src="https://img.shields.io/badge/Tails%20-100000?&style=flat&logo=tails&logoColor=white" alt="tails"/></a>
                   
  
- 📧 How to reach me:<a href="mailto:rich_dacan@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
+ 📧 How to reach me:<a align="center" href="mailto:rich_dacan@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
  
  
  <br>
