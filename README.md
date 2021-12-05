@@ -42,7 +42,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rich-Dacan&color=yellow" alt="Profile views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Rich-Dacan&color=100000" alt="Profile views" /></p>
 <p align="left">
 <img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
  
