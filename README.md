@@ -23,6 +23,7 @@
  
 <a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=float&logo=javascript&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://pt-br.reactjs.org/">![React](https://img.shields.io/badge/-React-100000?style=flat&logo=react&logoColor=F7DF1E)&nbsp;</a>
+<a href="https://www.typescriptlang.org'/">![Typescript](https://img.shields.io/badge/TypeScript-100000?style=flat&logo=typescript&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-100000?style=flat&logo=git&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/-HTML-100000?style=flat&logo=HTML5&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://nodejs.org/en/">![Node.js](https://img.shields.io/badge/-Node.js-100000?style=flat&logo=node.js&logoColor=F7DF1E)&nbsp;</a>
@@ -30,7 +31,6 @@
 <a href="https://www.python.org/">![Phyton](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://code.visualstudio.com/">![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-100000?style=flat&logo=visual-studio-code&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://github.com/Rich-Dacan">![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=F7DF1E)&nbsp;</a>
-
 
 
 
