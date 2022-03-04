@@ -82,7 +82,11 @@
  <br>
  
  
-<h2>Thanks for the visit, until soon! 👊 🤘 ahhh, and buy BTC ! 🚀<a href="https://bitcoin.org/en/" target="_blank"><img text-align="center" src="https://img.shields.io/badge/Bitcoin-100000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></a></h2>
+<h2>Thanks for the visit, until soon! 👊 🤘 </h2>
+
+
+
+<!-- ahhh, and buy BTC ! 🚀<a href="https://bitcoin.org/en/" target="_blank"><img text-align="center" src="https://img.shields.io/badge/Bitcoin-100000?style=flat&logo=bitcoin&logoColor=white" alt="bitcoin"/></a></h2> -->
  
  
  
