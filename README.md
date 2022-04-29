@@ -23,6 +23,7 @@
  
 <a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=float&logo=javascript&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://pt-br.reactjs.org/">![React](https://img.shields.io/badge/-React-100000?style=flat&logo=react&logoColor=F7DF1E)&nbsp;</a>
+<a href="https://redux.js.org/" target="_blank">![Redux](https://img.shields.io/badge/Redux-100000?style=flat&logo=redux&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://www.typescriptlang.org/">![Typescript](https://img.shields.io/badge/TypeScript-100000?style=flat&logo=typescript&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-100000?style=flat&logo=git&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/-HTML-100000?style=flat&logo=HTML5&logoColor=F7DF1E)&nbsp;</a>
