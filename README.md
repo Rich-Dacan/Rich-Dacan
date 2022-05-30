@@ -11,7 +11,6 @@
                   <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-100000?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/></a>
                   <a href="https://tails.boum.org/index.pt.html"><img src="https://img.shields.io/badge/Tails%20-100000?&style=flat&logo=tails&logoColor=white" alt="tails"/></a>
                   
- 
  📧 How to reach me:<a align="center" href="mailto:rich_dacan@proton.me" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
  
  
@@ -25,11 +24,11 @@
 <a href="https://www.typescriptlang.org/">![Typescript](https://img.shields.io/badge/TypeScript-100000?style=flat&logo=typescript&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://pt-br.reactjs.org/">![React](https://img.shields.io/badge/-React-100000?style=flat&logo=react&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://redux.js.org/" target="_blank">![Redux](https://img.shields.io/badge/Redux-100000?style=flat&logo=redux&logoColor=F7DF1E)&nbsp;</a>
+<a href="https://nodejs.org/en/">![Node.js](https://img.shields.io/badge/-Node.js-100000?style=flat&logo=node.js&logoColor=F7DF1E)&nbsp;</a>
+<a href="https://www.python.org/">![Phyton](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-100000?style=flat&logo=git&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">![HTML](https://img.shields.io/badge/-HTML-100000?style=flat&logo=HTML5&logoColor=F7DF1E)&nbsp;</a>
-<a href="https://nodejs.org/en/">![Node.js](https://img.shields.io/badge/-Node.js-100000?style=flat&logo=node.js&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">![CSS](https://img.shields.io/badge/-CSS-100000?style=flat&logo=CSS3&logoColor=F7DF1E)&nbsp;</a>
-<a href="https://www.python.org/">![Phyton](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://code.visualstudio.com/">![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-100000?style=flat&logo=visual-studio-code&logoColor=F7DF1E)&nbsp;</a>
 <a href="https://github.com/Rich-Dacan">![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=F7DF1E)&nbsp;</a>
 
