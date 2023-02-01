@@ -1,11 +1,7 @@
  <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">   Hi, I'm Richard Cândido! </h1>
   <br>
  
- 👨‍💻 I'm interested in programming!
- 
- 🚀 I'm looking to collaborate in building the future of humanity! 
- 
- 🌱 I’m currently learning JavaScript and Phyton! 
+ 🚀 I’m currently learning JavaScript ecosystem (front and back) and Phyton! 
  
  🐧 Linux user!   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-100000?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
                   <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-100000?style=flat&logo=arch-linux&logoColor=white" alt="archnux"/></a>
