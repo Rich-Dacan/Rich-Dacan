@@ -9,7 +9,7 @@
                   
  📧 How to reach me:<a align="center" href="mailto:rich_dacan@proton.me" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-100000?style=flat&logo=protonmail&logoColor=white" alt="protonmail"/></a>
  
- <h2>- Focused in work on Gitlab... <a href='#'>Richard Cândido</a></h2>
+ <h3>Focused in work on <a href='https://gitlab.com/rich-dacan'>Gitlab...</a></h3>
  
  
  <br>
