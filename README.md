@@ -78,7 +78,7 @@
  <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-100000?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
  
-<a href="https://twitter.com/RichardAndrade2" target="_blank"  rel="external" >
+<a href="https://twitter.com/rich_dacan" target="_blank"  rel="external" >
   <img align="center" src="https://img.shields.io/badge/-Rich_Dacan-100000?style=flat&logo=twitter&logoColor=white"  alt="twitter"/>  
 </a>
  
