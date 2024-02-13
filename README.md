@@ -53,10 +53,16 @@
 <p align="left">
 <img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
  
- <img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
+ <img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&langs_count=8&card_width=32&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
 </p>
- 
-<!--<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=dracula" alt="Rich-Dacan's stats"/>-->
+
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+<img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Rich-Dacan&show_icons=true&theme=dracula" alt="Rich-Dacan's stats"/>-->
  
 <!--<img margin-top="auto" width="520em" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rich-Dacan&layout=compact&theme=vision-friendly-dark" alt="Rich-Dacan's most languages"/>-->
  
